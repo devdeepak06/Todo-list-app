@@ -1,9 +1,8 @@
-/* css design  */
-/* style for body */
+
 body{
     margin: 0;
     font-family: sans-serif;
-    background-color: rgb(236, 47, 236);
+    background-color: rgba(236, 47, 236, 0.452);
 }
 /* style for single task div container */
 
@@ -14,7 +13,6 @@ body{
     color: white;
     display: flex;
     align-items: baseline;
-    /* justify-content: space-evenly; */
     position: relative;
     left: 25%;
 }
@@ -23,15 +21,14 @@ body{
     margin: 15px;
 
 }
-/* style for category section */
 
+/* style for category section */
 .catesec{
     border: 1px solid black;
     background-color: chartreuse;
 }
 
 /* style for TODO heading */
-
 .todoheading{
     color: white;
     text-align: center;
@@ -40,15 +37,14 @@ body{
 }
 
 /* style for form */
-
 .form_class{
     width: 50%;
     text-align: center;
     position: relative;
     left: 25%;
 }
-/* style for description area */
 
+/* style for description area */
 .desc_Class input{
     height: 50px;
     width: 100%;
@@ -60,14 +56,13 @@ body{
 }
 /* implemented some hover in description section */
 .desc_Class input:hover{
-    /* transform: scale(1.1); */
     box-shadow: 0px 0px 5px 2px white ;
-    background-color: bisque;
+    background-color: rgb(248, 231, 210);
 }
 
 /* design for select and option START */
-/* style for select and options input input area */
 
+/*style for select and options input input area */
 .select_and_input{
     display: flex;
     justify-content: center;

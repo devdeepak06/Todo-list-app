@@ -1,5 +1,16 @@
 # To Do  List App
 
+## Hello Everyone 👋 
+This is a simple ToDo application using NodeJS and MongDB. where a user of this application can create,edit and delete all the ToDo items .
+
+
+## How to use this application
+- First of all you have to clone this repository in your local machine.
+- Then you have to install all the dependencies by using the command `npm install`.
+- Then you have to start the server by using the command `npm start`.
+- Then you have to open the browser and type `localhost:8000` in the url bar.
+- Then you can use this application.
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -34,7 +45,8 @@ ToDo application is based on NodeJs and express as server side technology, Mongo
 - express
 - MongoDB
 - ejs
-### Useful resources
+
+### Useful Documentations
 
 - [MongoDb](https://mongoosejs.com/)
 - [expressJs](https://expressjs.com/)
@@ -49,5 +61,6 @@ ToDo application is based on NodeJs and express as server side technology, Mongo
 ## Acknowledgments
 
 This project is done by me from scratch by refering to the above websites .
+
 ## Deployed Link
 -[TODO APP](https://google.com/)

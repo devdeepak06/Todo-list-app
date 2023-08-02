@@ -33,7 +33,7 @@ It is a simple TODO application using NodeJS and MongDB. where a user of this ap
 ![](images/Screenshot.png)
 ## My process
 
-ToDo application is based on NodeJs and express as server side technology, MongoDb for Data-Base,and ejs fro front-end.  
+ToDo application is based on NodeJs and express as server side technology, MongoDb for Data-Base,and ejs for front-end.  
 ### Built with
 
 - HTML

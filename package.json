@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "coding ninjas major project to do list",
   "main": "index.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
